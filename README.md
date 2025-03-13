@@ -19,6 +19,5 @@ This project is a portable WAV audio player built using the STM32F407G-DISC1 mic
 
     STM32F407G-DISC1 microcontroller
     USB Drive (for file storage)
-    DAC for audio output
-    Potentiometer for volume control
+    Onboard DAC for audio output
     Headphone jack for audio output
