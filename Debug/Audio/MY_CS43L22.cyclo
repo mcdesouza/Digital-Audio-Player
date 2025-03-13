@@ -1,0 +1,7 @@
+../Audio/MY_CS43L22.c:22:13:write_register	1
+../Audio/MY_CS43L22.c:30:13:read_register	1
+../Audio/MY_CS43L22.c:39:6:CS43_Init	3
+../Audio/MY_CS43L22.c:107:6:CS43_Enable_RightLeft	5
+../Audio/MY_CS43L22.c:136:6:CS43_SetVolume	2
+../Audio/MY_CS43L22.c:153:6:CS43_Start	1
+../Audio/MY_CS43L22.c:177:6:CS43_Stop	1
