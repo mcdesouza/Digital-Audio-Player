@@ -1,4 +1,4 @@
-#STM32 Digital Audio Player
+# STM32 Digital Audio Player
 
 This project is a portable WAV audio player built using the STM32F407G-DISC1 microcontroller. The player reads WAV files from a connected USB drive, decodes the audio, and outputs it through a Digital-to-Analog Converter (DAC) to a headphone jack.
 ## Project Overview
