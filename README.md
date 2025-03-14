@@ -15,7 +15,8 @@ This project is a portable WAV audio player built using the STM32F407G-DISC1 mic
 ✅ Real-time audio playback using DMA.
 ✅ Adjustable volume with a potentiometer.
 ✅ Output through 3.5mm audio jack (compatible with headphones and speakers).
-🧰 Hardware Components
+
+## Hardware Components
 
     STM32F407G-DISC1 microcontroller
     USB Drive (for file storage)
