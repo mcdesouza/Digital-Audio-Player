@@ -22,3 +22,6 @@ This project is a portable WAV audio player built using the STM32F407G-DISC1 mic
     USB Drive (for file storage)
     Onboard DAC for audio output
     Headphone jack for audio output
+
+## Link to Demo
+[here](https://drive.google.com/file/d/1cOBk4finXVdrC_Sm2SzD2_ycemneZsQA/view)
