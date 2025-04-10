@@ -12,8 +12,6 @@ This project is a portable WAV audio player built using the STM32F407G-DISC1 mic
 
 ✅ Supports 16-bit PCM WAV files.
 ✅ FAT32 file system compatibility via USB drive.
-✅ Real-time audio playback using DMA.
-✅ Adjustable volume with a potentiometer.
 ✅ Output through 3.5mm audio jack (compatible with headphones and speakers).
 
 ## Hardware Components
