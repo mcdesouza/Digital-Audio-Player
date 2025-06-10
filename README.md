@@ -10,9 +10,7 @@ Supports adjustable output amplitude using a potentiometer.
 
 ## Features
 
-✅ Supports 16-bit PCM WAV files.
-✅ FAT32 file system compatibility via USB drive.
-✅ Output through 3.5mm audio jack (compatible with headphones and speakers).
+Supports 16-bit PCM WAV files. FAT32 file system compatibility via USB drive. Output through 3.5mm audio jack (compatible with headphones and speakers).
 
 ## Hardware Components
 
