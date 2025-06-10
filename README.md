@@ -3,10 +3,10 @@
 This project is a portable WAV audio player built using the STM32F407G-DISC1 microcontroller. The player reads WAV files from a connected USB drive, decodes the audio, and outputs it through a Digital-to-Analog Converter (DAC) to a headphone jack.
 ## Project Overview
 
-    Developed a real-time audio playback system on the STM32 platform using CubeIDE.
-    Configured USB Host for FAT32 file access and I2S for audio streaming to the DAC.
-    Designed for efficient real-time processing with minimal latency.
-    Supports adjustable output amplitude using a potentiometer.
+Developed a real-time audio playback system on the STM32 platform using CubeIDE.
+Configured USB Host for FAT32 file access and I2S for audio streaming to the DAC.
+Designed for efficient real-time processing with minimal latency.
+Supports adjustable output amplitude using a potentiometer.
 
 ## Features
 
@@ -16,10 +16,10 @@ This project is a portable WAV audio player built using the STM32F407G-DISC1 mic
 
 ## Hardware Components
 
-    STM32F407G-DISC1 microcontroller
-    USB Drive (for file storage)
-    Onboard DAC for audio output
-    Headphone jack for audio output
+STM32F407G-DISC1 microcontroller
+USB Drive (for file storage)
+Onboard DAC for audio output
+Headphone jack for audio output
 
 ## Link to Demo
 [here](https://drive.google.com/file/d/1cOBk4finXVdrC_Sm2SzD2_ycemneZsQA/view)
